@@ -1,4 +1,4 @@
 <?php
-// localhost/hellogit.php
-echo "Hello login!";
+// localhost/login.php
+echo "Hello login x 2!";
 ?>

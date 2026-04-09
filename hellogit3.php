@@ -1,4 +1,4 @@
 <?php
 // localhost/hellogit.php
-echo "NEWWWWW Hello 3, V2!";
+echo " Hello 3, V login!";
 ?>
